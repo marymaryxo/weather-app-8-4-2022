@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+  line-height: 70px;
+}
+
+h2 {
+  font-size: 80pt;
+}
+
+input {
+  margin: 0 auto;
+}
+.container {
+  margin: 50px auto;
+}
+
+.day {
+  line-height: 40px;
+}
+.temp {
+  font-size: 33px;
+}
+
+.weather-icons {
+  font-size: 35px;
+}
